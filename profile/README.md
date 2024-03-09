@@ -10,6 +10,9 @@
 ### Datasets
 [coming soon]
 
+### Protocols
+[Weissman Lab resources](https://weissman.wi.mit.edu/resources/) | [Jost Lab resources](https://www.jostlab.org/resources)
+
 ### Tools
 - [crisprVerse](https://github.com/crisprVerse) – Bioconductor ecosystem for CRISPR gRNA design
 - [ScreenPro2](https://github.com/ArcInstitute/ScreenPro2/) – Flexible analysis of high-content CRISPR screening
