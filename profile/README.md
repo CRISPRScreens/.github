@@ -8,7 +8,10 @@
 [coming soon]
 
 ### Datasets
-[coming soon]
+- [CRISPRbrain](https://crisprbrain.org) – Data Commons for functional genomics screens in differentiated human cell types
+- [CRISPRlipid](https://crisprlipid.org) – Data commons for functional genomics screens related to lipid biology
+
+[more resources coming soon]
 
 ### Protocols
 [Weissman Lab resources](https://weissman.wi.mit.edu/resources/) | [Jost Lab resources](https://www.jostlab.org/resources)
